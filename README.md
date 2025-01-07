@@ -8,7 +8,7 @@ Feel free to play around with the existing code and please leave any feedback fo
 ## Getting Started FAQ
 
 ### Setting up the demo (edited)
-/* is 
+/* is added or edited lines.
 
 1. Clone this repo
 
